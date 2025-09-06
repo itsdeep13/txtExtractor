@@ -6,7 +6,7 @@ import os
 
 class Config(object):
     # get a token from @BotFather
-    BOT_TOKEN = os.environ.get("BOT_TOKEN", "6618274486:AAESKaMTJJ0tOR62pqOPt-a0WcfpTi0y7nk")
+    BOT_TOKEN = os.environ.get("BOT_TOKEN", "8360763217:AAG8EuJ9vdsMB1YTKAgNihOldq3_KjIxBUw")
     API_ID = int(os.environ.get("API_ID", "20089019"))
-    API_HASH = os.environ.get("API_HASH", "0b2eb6aa72d5983fa9e4b8c77791c9c4")
-    AUTH_USERS = os.environ.get("AUTH_USERS", "6404676836")
+    API_HASH = os.environ.get("API_HASH", "bc2ea0765ac96bb474891b0243f44390")
+    AUTH_USERS = os.environ.get("AUTH_USERS", "6363345131")
